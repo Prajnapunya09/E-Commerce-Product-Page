@@ -5,7 +5,7 @@
 It showcases a product with image, price, description, key features, and action buttons like **Add to Cart** and **Buy Now**.  
 
 ## 🖼️ Demo Preview
-![Output Image](https://github.com/Prajnapunya09/E-Commerce-Product-Page/blob/main/output%20img.jpg)
+![Output Image] (https://github.com/Prajnapunya09/E-Commerce-Product-Page/blob/main/output%20img.jpg)
 
 ## ✨ Key Features
 - Responsive design that works on desktop and mobile
